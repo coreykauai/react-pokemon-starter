@@ -98,3 +98,8 @@ body {
 .chosen-poke-pic {
   width: 300px;
 }
+
+.typecon {
+  width: 150px;
+  margin: 30px;
+}
