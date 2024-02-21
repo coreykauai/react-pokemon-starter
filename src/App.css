@@ -90,3 +90,11 @@ body {
 .pokemon-card:hover .type-icon {
   transform: rotate(360deg); /* Rotate the type icon on card hover */
 }
+
+.centerPokemon {
+  border: 2px solid salmon;
+}
+
+.chosen-poke-pic {
+  width: 300px;
+}
